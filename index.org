@@ -1,0 +1,7 @@
+* MY NIFTY ORG MODE GENERATED SITE
+
+** TESTING, TESTING
+
+#+BEGIN_SRC emacs-lisp
+(message "Hello, world!")
+#+END_SRC
