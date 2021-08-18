@@ -1,0 +1,100 @@
+#+MACRO: FIRST    Toby
+#+MACRO: LAST     Slight
+#+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
+#+MACRO: WEBSITE  https://tslight.github.io
+#+MACRO: E-MAIL   tslight@pm.me
+#+MACRO: PHONE    +44 07412982139
+#+MACRO: GITHUB   https://github.com/tslight
+#+MACRO: GITLAB   https://gitlab.com/tspub
+
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{WEBSITE}}} }{ {{{E-MAIL}}} }{ {{{PHONE}}} }{ {{{GITLAB}}} }{ {{{GITHUB}}} }
+
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+LaTeX_HEADER: \usepackage{cv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={blue}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+#+EXPORT_FILE_NAME: index
+
+{{{HEADER}}}
+
+* Profile
+
+Positive, conscientious, trustworthy, hardworking and reliable. An insatiable
+thirst for technical knowledge. Able to pick up new skills and absorb new
+concepts rapidly and effectively.
+
+* Skills
+
+*Advanced*: Ansible, Azure, Bash, Git, GitLab CI, Linux, Lisp, Make, Python, Terraform
+
+*Intermediate*: Docker, Kubernetes, NodeJS, OpenBSD, Powershell, Atlassian Suite
+
+*Beginner*: AWS, C, FreeBSD, GCP, Go, Nix, PHP, Rancher, SQL, ZFS, Jenkins
+
+* Product Reliability Engineer, StorageOS, /07/2021 - current/
+
+- Tested and supported a cloud native, software defined storage engine that
+  facilitates stateful production workloads for Kubernetes environments.
+
+- Gained experience with Kubernetes, Rancher, Open Shift, GCP and AWS in
+  my time with StorageOS.
+
+- Role changed significantly in my first month from what I applied for. From an
+  engineering role to support and sales. Hence the desire to move on so
+  quickly.
+
+* Platform Engineer, Open Energi, /06/2019 - 07/2021/
+
+- Created, maintained and automated infrastructure and API deployment driven
+  from GitLab CI/CD pipelines.
+
+- Knitted together Bash, Python, Ansible & Terraform scripts, Makefiles and
+  Docker containers to create seamless, end to end, infrastructure as code,
+  testing and production environments.
+
+- Wrote unit and integration tests and fixed bugs in backend software written
+  in Python, NodeJS and Go.
+
+- Facilitated a team of Data Scientists to write clean and well tested code.
+
+* Cloud Automation Engineer, Hentsu, /04/2019 - 06/2019/
+
+- Designed and implemented a MSP product that packaged, abstracted and extended
+  services provided by Azure & AWS.
+
+- Automated Intune provisioning and Office 365 reporting in Azure with
+  Powershell.
+
+- Wrote Powershell modules for AzureAD, PartnerCenter, Graph and Intune.
+
+* Automation Engineer, M&C Saatchi, /12/2017 - 04/2019/
+
+- Automated the on-boarding of new starters to the company with Powershell,
+  which involved writing a number of modules to interact with a variety of 3rd
+  party APIs.
+- Wrote many Powershell, Bash and Python scripts to assist in deployment,
+  teardown, backup and monitoring of On-Prem and cloud based infrastructure and
+  user's machines. Most of these are available on my [[https://github.com/tslight][GitHub]] or [[https://gitlab.com/tspub][GitLab]].
+
+* IT Consultant, Self-Employed, /03/2017 - 02/2018/
+
+- System administration of Windows/macOS/Linux/OpenBSD/FreeBSD.
+- Network administration of Cisco, MikroTik & Ubiquiti devices.
+
+* Web Developer/Admin, Self-Employed, /05/2014 - 02/2018/
+
+- Web development using HTML, CSS, PHP & JavaScript.
+- Domain name registration, web hosting, Wordpress & email setup.
+
+* Qualifications
+
+- *BSc Computing*, Birkbeck University of London: /2015-2018/
+
+* COMMENT Local Variables                                  :NOEXPORT:ARCHIVE:
+# Local Variables:
+# eval: (add-hook 'after-save-hook 'org-latex-export-to-pdf nil t)
+# eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+# End:
