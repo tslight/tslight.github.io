@@ -1,26 +1,17 @@
-/**
- * This stylesheet will work pretty well with a regular Org Mode HTML export.
- * However, you do have to turn off all of the defaults:
- *
- * (setq org-export-html-style-include-scripts nil
- *       org-export-html-style-include-default nil)
- *
- * and insert a call to the stylesheet:
- *
- * (setq org-export-html-style
- *       "<link rel=\"stylesheet\" type=\"text/css\" href=\"org-style.css\" />")
- */
-
-/* @group Fonts */
-
 body {
   margin: 0px auto;
   padding: 1em;
-  font-family: "Helvetica", "Bitstream Vera Sans", "Verdana", sans-serif;
+  font-family: "Helvetica", sans-serif;
   line-height: 1.5em;
 }
 
-img { width: 20px; padding: 0em .2em; }
+img {
+  height: 400px;
+  align: right;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
 
 a { color: #057; }
 
@@ -39,9 +30,6 @@ h1 a { text-decoration: none; }
 
 h2 {
   font-size: 125%;
-  background: #eee;
-  border: 1px solid #bbb;
-  padding: .3em;
 }
 
 ul { margin: 0; padding: 0 1em;}
@@ -54,17 +42,18 @@ div#postamble {
 }
 
 /* Phones */
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
   body { padding: 1em 0.5em; }
   h1 { font-size: 140%; }
   h2 { font-size: 120%; }
+  img { width: 0px }
 }
 
 /* Laptops */
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 900px) {
   body {
     background: #eee none repeat scroll 0 0;
-    max-width: 1000px;
+    max-width: 900px;
     text-align: justify;
   }
   h1 { background: #fff none repeat scroll 0 0; }

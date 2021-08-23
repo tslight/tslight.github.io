@@ -1,11 +1,14 @@
 #+TITLE: Toby Slight
 #+AUTHOR: Toby Slight
 #+EMAIL: tslight@pm.me
-#+OPTIONS: toc:nil broken-links:t num:nil
+#+OPTIONS: toc:nil broken-links:t num:nil html-style:nil
 #+EXPORT_FILE_NAME: index
 #+EXCLUDE_TAGS: NOEXPORT
 #+STARTUP: hidestars indent overview
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css"/>
+
+#+ATTR_HTML: :align right
+[[./long.jpg]]
 
 * Professional
 
@@ -21,7 +24,7 @@
 
 * Personal
 
-/Dedicated husband & father. Lover off all things [[https://www.instagram.com/sageboarding][board]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sagebiking][bike]] related/
+/Dedicated husband & father. Lover of all things [[https://www.instagram.com/sageboarding][board]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sagebiking][bike]] related/
 
 [[https://www.instagram.com/toby_or_not/][Instagram]]
 
