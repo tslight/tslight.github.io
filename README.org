@@ -4,6 +4,7 @@
 #+EXPORT_FILE_NAME: index
 #+EXCLUDE_TAGS: NOEXPORT
 #+STARTUP: hidestars indent overview
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 
 [[https://tslight.gitlab.io/cv][Curriculum Vitae]]
 
@@ -16,4 +17,5 @@
 * COMMENT Local Variables                                  :NOEXPORT:ARCHIVE:
 # Local Variables:
 # eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+# org-html-validation-link: nil
 # End:
