@@ -1,7 +1,7 @@
-#+TITLE: Home Page
+#+TITLE: Toby Slight
 #+AUTHOR: Toby Slight
 #+EMAIL: tslight@pm.me
-#+OPTIONS: toc:nil broken-links:t num:nil title:nil
+#+OPTIONS: toc:nil broken-links:t num:nil
 #+EXPORT_FILE_NAME: index
 #+EXCLUDE_TAGS: NOEXPORT
 #+STARTUP: hidestars indent overview
@@ -9,7 +9,7 @@
 
 * Professional
 
-Passionate Programmer, DevOps Engineer & Emacs Enthusiast.
+/Passionate Programmer, DevOps Engineer & Emacs Enthusiast/
 
 [[https://tslight.gitlab.io/cv][Curriculum Vitae]]
 
@@ -21,7 +21,7 @@ Passionate Programmer, DevOps Engineer & Emacs Enthusiast.
 
 * Personal
 
-Dedicated husband & father. Lover off all things [[https://www.instagram.com/sageboarding][board]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sagebiking][bike]] related.
+/Dedicated husband & father. Lover off all things [[https://www.instagram.com/sageboarding][board]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sagebiking][bike]] related/
 
 [[https://www.instagram.com/toby_or_not/][Instagram]]
 
