@@ -5,14 +5,6 @@ body {
   line-height: 1.5em;
 }
 
-img {
-  height: 400px;
-  align: right;
-  border-radius: 8px;
-  border: 1px solid #ddd;
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-
 a { color: #057; }
 
 a:hover { color: #900; }
@@ -61,5 +53,12 @@ div#postamble {
     border: 1px solid #bbb;
     background: #fff;
     padding: 3em;
+  }
+  img {
+    height: 400px;
+    align: right;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   }
 }
