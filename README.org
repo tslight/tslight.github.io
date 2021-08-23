@@ -1,12 +1,15 @@
-#+TITLE: Toby Slight
+#+TITLE: Home Page
 #+AUTHOR: Toby Slight
-#+OPTIONS: toc:nil broken-links:t num:nil html-postamble:nil title:nil
+#+EMAIL: tslight@pm.me
+#+OPTIONS: toc:nil broken-links:t num:nil title:nil
 #+EXPORT_FILE_NAME: index
 #+EXCLUDE_TAGS: NOEXPORT
 #+STARTUP: hidestars indent overview
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css"/>
 
-* Links
+* Professional
+
+Passionate Programmer, DevOps Engineer & Emacs Enthusiast.
 
 [[https://tslight.gitlab.io/cv][Curriculum Vitae]]
 
@@ -15,6 +18,14 @@
 [[https://github.com/tslight][GitHub]]
 
 [[https://tslight.github.io/emacs][Emacs]]
+
+* Personal
+
+Dedicated husband & father. Lover off all things [[https://www.instagram.com/sageboarding][board]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sagebiking][bike]] related.
+
+[[https://www.instagram.com/toby_or_not/][Instagram]]
+
+[[https://www.facebook.com/not.toby/][Facebook]]
 
 * COMMENT Local Variables                                  :NOEXPORT:ARCHIVE:
 # Local Variables:
