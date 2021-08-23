@@ -1,0 +1,19 @@
+#+TITLE: Toby Slight
+#+AUTHOR: Toby Slight
+#+OPTIONS: toc:nil H:10 tex:t broken-links:t num:nil title:nil
+#+EXPORT_FILE_NAME: index
+#+EXCLUDE_TAGS: NOEXPORT
+#+STARTUP: hidestars indent overview
+
+[[https://tslight.gitlab.io/cv][Curriculum Vitae]]
+
+[[https://www.linkedin.com/in/toby-slight-0a89abb1][LinkedIn]]
+
+[[https://github.com/tslight][GitHub]]
+
+[[https://tslight.github.io/emacs][Emacs]]
+
+* COMMENT Local Variables                                  :NOEXPORT:ARCHIVE:
+# Local Variables:
+# eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+# End:
