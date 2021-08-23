@@ -6,29 +6,30 @@
 #+EXCLUDE_TAGS: NOEXPORT
 #+STARTUP: hidestars indent overview
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css"/>
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
 
 #+ATTR_HTML: :align right
 [[./long.jpg]]
 
 * Professional
 
-/Passionate Programmer, DevOps Engineer & Emacs Enthusiast/
+/Passionate Programmer, DevOps Engineer & Emacs Enthusiast./
 
-[[https://tslight.gitlab.io/cv][Curriculum Vitae]]
+@@html:<i class="fa fa-file"></i>@@ [[https://tslight.gitlab.io/cv][Curriculum Vitae]]
 
-[[https://www.linkedin.com/in/toby-slight-0a89abb1][LinkedIn]]
+@@html:<i class="fa fa-linkedin"></i>@@ [[https://www.linkedin.com/in/toby-slight-0a89abb1][LinkedIn]]
 
-[[https://github.com/tslight][GitHub]]
+@@html:<i class="fa fa-github"></i>@@ [[https://github.com/tslight][GitHub]]
 
-[[https://tslight.github.io/emacs][Emacs]]
+@@html:<i class="fa fa-code"></i>@@ [[https://tslight.github.io/emacs][Emacs]]
 
 * Personal
 
-/Dedicated husband & father. Lover of all things [[https://www.instagram.com/sageboarding][board]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sagebiking][bike]] related/
+/Dedicated husband & father. Lover of all things [[https://www.instagram.com/sagebiking][bike]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sageboarding/][board]]./
 
-[[https://www.instagram.com/toby_or_not/][Instagram]]
+@@html:<i class="fa fa-instagram"></i>@@ [[https://www.instagram.com/toby_or_not/][Instagram]]
 
-[[https://www.facebook.com/not.toby/][Facebook]]
+@@html:<i class="fa fa-facebook"></i>@@ [[https://www.facebook.com/not.toby/][Facebook]]
 
 * COMMENT Local Variables                                  :NOEXPORT:ARCHIVE:
 # Local Variables:
