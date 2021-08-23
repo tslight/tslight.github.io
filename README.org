@@ -1,10 +1,12 @@
 #+TITLE: Toby Slight
 #+AUTHOR: Toby Slight
-#+OPTIONS: toc:nil H:10 tex:t broken-links:t num:nil title:nil
+#+OPTIONS: toc:nil broken-links:t num:nil html-postamble:nil title:nil
 #+EXPORT_FILE_NAME: index
 #+EXCLUDE_TAGS: NOEXPORT
 #+STARTUP: hidestars indent overview
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./style.css"/>
+
+* Links
 
 [[https://tslight.gitlab.io/cv][Curriculum Vitae]]
 
