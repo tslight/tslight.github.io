@@ -29,6 +29,7 @@ div#postamble {
   color: #666;
   font-size: 90%;
   padding: 2em;
+  line-height: .5em;
 }
 
 /* Phones */
@@ -51,12 +52,11 @@ div#postamble {
     border: 1px solid #bbb;
     background: #fff;
     padding: 3em;
+    box-shadow: 0 0 8px 8px rgba(.2, .2, .2, .2);
   }
   img {
     height: 400px;
     align: right;
-    border-radius: 8px;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    box-shadow: 0 0 8px 8px rgba(.2, .2, .2, .2);
   }
 }
