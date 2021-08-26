@@ -15,13 +15,13 @@
 
 /Passionate Programmer, DevOps Engineer, Linux Lover & Emacs Enthusiast./
 
-@@html:<i class="fa fa-file"></i>@@ [[https://tslight.gitlab.io/cv][Curriculum Vitae]]
+@@html:<i class="fa fa-file"></i>@@ [[http://cv.tobyslight.uk][Curriculum Vitae]]
 
 @@html:<i class="fa fa-linkedin"></i>@@ [[https://www.linkedin.com/in/toby-slight-0a89abb1][LinkedIn]]
 
 @@html:<i class="fa fa-github"></i>@@ [[https://github.com/tslight][GitHub]]
 
-@@html:<i class="fa fa-code"></i>@@ [[https://tslight.github.io/emacs][Emacs]]
+@@html:<i class="fa fa-code"></i>@@ [[http://tobyslight.uk/emacs][Emacs]]
 
 * Personal
 
