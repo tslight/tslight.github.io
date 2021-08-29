@@ -25,8 +25,7 @@ h2 { font-size: 125%; }
 ul { margin: 0; padding: 0 1em;}
 
 img {
-  height: 420px;
-  align: right;
+  height: 420px; align: right; float: right;
   box-shadow: 0 0 8px 8px rgba(.2, .2, .2, .2);
   margin: 0px 0px 0px 1em;
 }
@@ -37,7 +36,7 @@ img {
   h1 { font-size: 140%; }
   h2 { font-size: 120%; }
   img {
-    height: 400px;
+    height: 360px;
     box-shadow: 0 0 1px 1px rgba(.4, .4, .4, .4);
   }
 }
