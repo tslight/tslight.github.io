@@ -28,7 +28,7 @@ img {
   height: 420px;
   align: right;
   box-shadow: 0 0 8px 8px rgba(.2, .2, .2, .2);
-  margin: 0px 1em;
+  margin: 0px 0px 0px 1em;
 }
 
 /* Phones */
@@ -36,6 +36,10 @@ img {
   body { padding: 1em 0.5em; }
   h1 { font-size: 140%; }
   h2 { font-size: 120%; }
+  img {
+    height: 400px;
+    box-shadow: 0 0 1px 1px rgba(.4, .4, .4, .4);
+  }
 }
 
 /* Laptops */
