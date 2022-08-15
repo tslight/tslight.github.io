@@ -26,11 +26,13 @@
 
 * Personal
 
-/Dedicated husband & father. Lover of all things [[https://www.instagram.com/sagebiking][bike]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sageboarding/][board]] related./
+/Dedicated father. Lover of all things [[https://www.instagram.com/sagebiking][bike]], [[https://www.instagram.com/sageblading/][blade]] or [[https://www.instagram.com/sageboarding/][board]] related./
 
 @@html:<i class="fab fa-instagram"></i>@@ [[https://www.instagram.com/toby_or_not/][Instagram]]
 
 @@html:<i class="fab fa-facebook"></i>@@ [[https://www.facebook.com/not.toby/][Facebook]]
+
+@@html:<i class="fab fa-youtube"></i>@@ [[https://www.youtube.com/c/TobySlight1][YouTube]]
 
 @@html:<i class="fas fa-envelope"></i>@@ [[mailto:tslight@pm.me][Contact]]
 
