@@ -22,7 +22,7 @@
 
 @@html:<i class="fab fa-github"></i>@@ [[https://github.com/tslight][GitHub]]
 
-@@html:<i class="fas fa-code"></i>@@ [[http://tobyslight.uk/emacs][Emacs]]
+@@html:<i class="fas fa-code"></i>@@ [[http://tslight.uk/emacs][Emacs]]
 
 * Personal
 
